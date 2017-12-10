@@ -1,0 +1,1 @@
+pandoc -s readme.md -o readme.docx
